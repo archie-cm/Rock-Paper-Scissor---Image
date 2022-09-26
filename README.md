@@ -1,6 +1,6 @@
 # Training-Course
 
-# Machine Learning Courses at Dicoding: https://www.dicoding.com/academies/184
+## Machine Learning Courses at Dicoding: https://www.dicoding.com/academies/184
 
 Materi apa saja yang akan dipelajari?
 * Data Introduction : Pengenalan terhadap data dan bagaimana mempersiapkannya untuk diproses dengan machine learning.
@@ -11,7 +11,7 @@ Materi apa saja yang akan dipelajari?
 * Tensorflow : Belajar tentang library tensorflow, sebuah powerful library yang dipakai untuk mengembangkan project machine learning.
 * Membuat Model dengan IBM Watson Studio
 
-# Submission
+## Submission
 * mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
 
