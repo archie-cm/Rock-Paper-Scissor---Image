@@ -1,4 +1,4 @@
-#Rock-Paper-Scissor-Image
+#Rock Paper Scissor - Image
 
 ## Machine Learning Courses at Dicoding: https://www.dicoding.com/academies/184
 
