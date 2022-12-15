@@ -1,15 +1,15 @@
-# Rock Paper Scissor - Image
+# Rock Paper Scissor - Image Recognize
 
 ## Machine Learning Courses at Dicoding: https://www.dicoding.com/academies/184
 
-Materi apa saja yang akan dipelajari?
-* Data Introduction : Pengenalan terhadap data dan bagaimana mempersiapkannya untuk diproses dengan machine learning.
-* Data Unsupervised & Supervised : Memahami 2 jenis machine learning yaitu unsupervised dan supervised, dengan contoh model regresi linier dan decision tree.
-* Kernel dan Clustering : Mengenal Support Vector machine, sebuah model machine learning yang sangat populer. Di sini juga belajar tentang clustering dengan k-means.
-* Machine Learning Basics : Memahami bagaimana menggunakan grid search untuk mencari parameter terbaik untuk sebuah model, serta bagaimana menguji kualitas sebuah model machine learning.
-* Neural Networks : Mengenal dasar dari neural network. Akan diterangkan mengenai multi layer perceptron serta convolutional neural network dalam image classification.
-* Tensorflow : Belajar tentang library tensorflow, sebuah powerful library yang dipakai untuk mengembangkan project machine learning.
-* Membuat Model dengan IBM Watson Studio
+What materials will be studied?
+* Data Introduction : Introduction to data and how to prepare it for processing with machine learning.
+* Unsupervised & Supervised Data: Understanding 2 types of machine learning, namely unsupervised and supervised, with examples of linear regression models and decision trees.
+* Kernel and Clustering: Get to know the Support Vector machine, a very popular machine learning model. Here also learn about clustering with k-means.
+* Machine Learning Basics: Understand how to use grid search to find the best parameters for a model, and how to test the quality of a machine learning model.
+* Neural Networks: Get to know the basics of neural networks. We will explain about multi-layer perceptron and convolutional neural networks in image classification.
+* Tensorflow : Learn about the tensorflow library, a powerful library used to develop machine learning projects.
+* Create Models with IBM Watson Studio
 
 ## Submission
-* mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
+* The project has objective to recognize the shape of the hand that forms scissors, rock, or paper from image.
